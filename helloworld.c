@@ -1,5 +1,6 @@
 // For command line gir tutorial
-// Local repository modification
+// First: GitHub modification
+// Second: Local repository modification
 #include <stdio.h>
 
 int main(void){
